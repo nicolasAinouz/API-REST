@@ -1,6 +1,7 @@
 # API-REST
 
 Cette API REST à été conçu dans un apprentissage de node.js, j'ai pour cela utilisé différents tutoriels.
+Cette API REST reste basique : elle comporte deux méthodes GET et une méthode POST.
 
 Pour utiliser ce programme ->
 
